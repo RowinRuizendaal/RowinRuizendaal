@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <p>
-  <img align="left" width="420" height="165" src="https://github-readme-stats.vercel.app/api?username=RowinRuizendaal&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="https://github.com/RowinRuizendaal/github-readme-stats">
+  <img align="left" width="420" height="165" src="https://github-readme-stats.vercel.app/api?username=RowinRuizendaal&show_icons=true&title_color=00a994&icon_color=f63f63&text_color=9f9f9f&bg_color=1a1f2b" alt="https://github.com/RowinRuizendaal/github-readme-stats">
   
   <a href="https://github.com/RowinRuizendaal/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RowinRuizendaal&layout=compact&title_color=fff&text_color=9f9f9f&bg_color=151515" alt="https://github.com/RowinRuizendaal/github-readme-stats">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RowinRuizendaal&layout=compact&title_color=00a994&text_color=9f9f9f&bg_color=1a1f2b" alt="https://github.com/RowinRuizendaal/github-readme-stats">
   </a>
 </p>
 
