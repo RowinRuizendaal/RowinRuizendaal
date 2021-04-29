@@ -9,11 +9,12 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="./img/koprol.gif" alt="Racoon" align="center">
-</div>
 
 ### You had me at "Hello World!"
+
+<div align="left">
+  <img src="./img/koprol.gif" alt="Racoon" align="center">
+</div>
 
 
 <!--
