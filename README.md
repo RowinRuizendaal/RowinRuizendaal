@@ -16,6 +16,7 @@
 
 ![Svelte](https://img.shields.io/badge/-Svelte-black?style=flat&logo=Svelte)
 ![Vue.js](https://img.shields.io/badge/-Vue-black?style=flat&logo=Vue.js)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt-black?style=flat&logo=Nuxt.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=Node.js&logoColor=white)
 
 ##### Other tools I use
