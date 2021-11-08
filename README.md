@@ -20,6 +20,7 @@
 
 ##### Other tools I use
 
+![React](https://img.shields.io/badge/-React-black?style=flat&logo=React)
 ![Html5](https://img.shields.io/badge/-HTML-black?style=flat&logo=Html5)
 ![CSS3](https://img.shields.io/badge/-CSS-black?style=flat&logo=CSS3&logoColor=2965f1)
 ![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat&logo=Javascript)
