@@ -31,7 +31,7 @@
 ![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=Express)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)
 
-### "The best error message is the one that never shows up.""
+### "The best error message is the one that never shows up."
 
 <div align="left">
   <img src="./img/koprol.gif" alt="Racoon" align="center">
