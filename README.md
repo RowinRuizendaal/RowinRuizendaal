@@ -37,6 +37,8 @@
   <img src="./img/koprol.gif" alt="Racoon" align="center">
 </div>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/RowinRuizendaal/github-profile-trophy)
+
 
 ![](https://komarev.com/ghpvc/?username=RowinRuizendaal)
 
